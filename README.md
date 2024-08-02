@@ -4,7 +4,7 @@ We tested different Reinforcement Learning models, especially those with an acto
 
 ## 1. Continuous Stireed Tank Reactor (CSTR) Example
 
-- Let us consider a second-order, exothermic, irreversible reaction from A to B
+- Let us consider a first-order, exothermic, irreversible reaction from A to B
 
 
 
