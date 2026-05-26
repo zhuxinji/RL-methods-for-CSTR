@@ -57,9 +57,6 @@ We tested different Reinforcement Learning models, especially those with an acto
 CSTR example:
 Wu, Z., & Christofides, P. D. (2019). Handling bounded and unbounded unsafe sets in control Lyapunov-barrier function-based model predictive control of nonlinear processes. Chemical Engineering Research and Design, 143, 140-149.
 
-RCTAC alorithm:
-Duan, J., Li, J., Ge, Q., Li, S. E., Bujarbaruah, M., Ma, F., & Zhang, D. (2023). Relaxed actor-critic with convergence guarantees for continuous-time optimal control of nonlinear systems. IEEE Transactions on Intelligent Vehicles, 8(5), 3299-3311.
-
 DDPG algorithm:
 Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971.
 https://github.com/vikash9899/Contorl-CSTR-using-Reinforcement-learning/tree/main
