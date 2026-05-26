@@ -49,8 +49,6 @@ We tested different Reinforcement Learning models, especially those with an acto
 
 ## 3. Current Methods
 
-- Relaxed Continuous-Time Actor-critic (RCTAC): it's able to lead an arbitrary initial policy to a nearly optimal policy, even for general nonlinear input non-affine system dynamics
-
 - Deep Deterministic Policy Gradient (DDPG): it requires only a straightforward actor-critic architecture and learning algorithm with very few “moving parts”, making it easy to implement and scale to more difficult problems and larger networks.
 
 
